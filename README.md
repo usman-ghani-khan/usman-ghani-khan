@@ -1,25 +1,45 @@
 # Hi there, I'm Usman 👋
 
-## About Me
-I am an **aspiring Data Analyst** passionate about uncovering insights from data and solving real-world problems. Currently, I am building my skills in **SQL, Python, pandas, NumPy, and Tableau** while exploring various datasets to strengthen my analytical thinking and visualization skills.  
+## 👋 About Me
+
+I’m a growth-minded and analytically curious professional focused on building strong foundations in data science through hands-on learning and real-world projects. I enjoy working with data to uncover patterns, test assumptions, and translate findings into meaningful insights.
+
+I am actively developing my skills in Python, SQL, and data visualization by exploring diverse datasets and applying statistical and analytical techniques such as data cleaning, exploratory data analysis, regression, clustering, and time series analysis. My goal is to continuously learn, experiment, and apply data-driven approaches to solve practical business problems.
 
 ---
 
-## Skills & Tools
-- **Data Analysis:** Python (pandas, NumPy), SQL, Excel  
-- **Data Visualization:** Tableau 
-- **Database Management:** PostgreSQL 
-- **Other Tools:** Jupyter Notebook, Git/GitHub  
+## 🧠 Skills & Tools
+
+### Data Analysis & Modeling
+- Exploratory Data Analysis (EDA)
+- Data cleaning and preprocessing
+- Regression analysis
+- Clustering and segmentation
+- Time series analysis
+
+### Programming & Querying
+- Python (pandas, NumPy)
+- SQL
+- Excel
+
+### Data Visualization
+- Tableau
+
+### Databases & Development Tools
+- PostgreSQL
+- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-## Learning Focus
-I am actively learning to:  
-- Write **efficient SQL queries** for data extraction, transformation, and aggregation  
-- Clean, preprocess, and analyze data in **Python**  
-- Build **interactive dashboards** in Tableau  
-- Derive **actionable business insights** from data  
+## 📈 What I’m Currently Learning & Practicing
 
+- Writing efficient SQL queries for data extraction, transformation, and aggregation  
+- Cleaning, preprocessing, and analyzing datasets using Python  
+- Performing EDA to identify trends, patterns, and anomalies  
+- Applying regression, clustering, and time series techniques to real-world data  
+- Building clear and interactive dashboards in Tableau  
+- Communicating analytical insights in a structured, business-relevant way
 ---
 
 ## GitHub Stats
