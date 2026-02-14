@@ -43,7 +43,7 @@ I am actively developing my skills in Python, SQL, and data visualization by exp
 ---
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-ghani-khan&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-ghani-khan&show_icons=true&theme=radical)](https://github.com/usman-ghan-khan)
 
 ---
 
