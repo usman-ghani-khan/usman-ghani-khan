@@ -2,44 +2,48 @@
 
 ## 👋 About Me
 
-I’m a growth-minded and analytically curious professional focused on building strong foundations in data science through hands-on learning and real-world projects. I enjoy working with data to uncover patterns, test assumptions, and translate findings into meaningful insights.
+I'm a security-focused professional passionate about building secure systems and protecting against evolving threats. I'm committed to deepening my knowledge of cybersecurity through hands-on learning, research, and practical projects in offensive and defensive security domains.
 
-I am actively developing my skills in Python, SQL, and data visualization by exploring diverse datasets and applying statistical and analytical techniques such as data cleaning, exploratory data analysis, regression, clustering, and time series analysis. My goal is to continuously learn, experiment, and apply data-driven approaches to solve practical business problems.
+I am actively developing my skills in security analysis, penetration testing, and secure coding practices by exploring vulnerabilities, studying threat intelligence, and implementing security best practices across different platforms and technologies.
 
 ---
 
-## 🧠 Skills & Tools
+## 🔒 Skills & Tools
 
-### Data Analysis & Modeling
-- Exploratory Data Analysis (EDA)
-- Data cleaning and preprocessing
-- Regression analysis
-- Clustering and segmentation
-- Time series analysis
+### Security & Analysis
+- Network security and analysis
+- Vulnerability assessment and penetration testing
+- Threat intelligence and malware analysis
+- Secure code review and SAST/DAST
 
-### Programming & Querying
-- Python (pandas, NumPy)
-- SQL
-- Excel
+### Programming & Scripting
+- Python (security automation, exploit development)
+- Bash scripting
+- SQL (database security)
 
-### Data Visualization
-- Tableau
+### Security Tools & Technologies
+- Burp Suite
+- Wireshark
+- Metasploit
+- OWASP Top 10
 
-### Databases & Development Tools
-- PostgreSQL
-- Jupyter Notebook
+### Platforms & Development Tools
+- Linux
+- Docker & containerization security
 - Git & GitHub
+- Virtual Lab environments
 
 ---
 
-## 📈 What I’m Currently Learning & Practicing
+## 📚 What I'm Currently Learning & Practicing
 
-- Writing efficient SQL queries for data extraction, transformation, and aggregation  
-- Cleaning, preprocessing, and analyzing datasets using Python  
-- Performing EDA to identify trends, patterns, and anomalies  
-- Applying regression, clustering, and time series techniques to real-world data  
-- Building clear and interactive dashboards in Tableau  
-- Communicating analytical insights in a structured, business-relevant way
+- Advanced penetration testing techniques and methodology
+- Analyzing network traffic and identifying suspicious patterns
+- Performing vulnerability assessments and developing remediation strategies
+- Secure coding practices and vulnerability prevention
+- Threat hunting and incident response procedures
+- Building and maintaining secure infrastructure
+
 ---
 
 ## GitHub Stats
@@ -47,4 +51,4 @@ I am actively developing my skills in Python, SQL, and data visualization by exp
 
 ---
 
-> “Without data, you’re just another person with an opinion.” – W. Edwards Deming
+> "The only truly secure system is one that is powered off and encased in concrete." – Eugene H. Spafford
